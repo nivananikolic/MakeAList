@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MakeAList</string>
+    <string name="make_a_list_text">Make a List</string>
 </resources>
